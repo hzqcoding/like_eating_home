@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>商品详情</title>
+    <link rel="stylesheet" href="css/iconfont.css">
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+<div id="miaosha" class="miaosha w clearfix">
+    <div class="miaosha-time">
+        <div class="ms_tit">秒杀抢购</div>
+        <span class="iconfont icon-alarm"></span>
+        <div class="ms_desc">本场距离结束还剩</div>
+        <div class="countdown clearfix">
+            <div class="cd_item cd_hour">--</div>
+            <div class="cd_item cd_minute">--</div>
+            <div class="cd_item cd_second">--</div>
+        </div>
+    </div>
+    <div id="miaoshaList" class="miaosha-list clearfix">
+    </div>
+</div>
+<div id="hotsale" class="layer w">
+    <div class="layer-inner">
+        <h3 class="hotSale">热卖单品</h3>
+        <ul id="hotSaleList" class="saleList clearfix">
+
+        </ul>
+    </div>
+</div>
+<div id="guesslike" class="layer w">
+    <div class="layer-inner">
+        <h3 class="likeSale">猜你喜欢</h3>
+        <ul id="gl" class="saleList clearfix">
+        </ul>
+        <div id="loadMore" class="loadMore"><span>加载更多</span></div>
+    </div>
+</div>
+<script src="js/ajax.js"></script>
+<script src="js/index.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,22 @@
+{
+  "data":[
+    {
+      "id":1,
+      "banner_img":"img/a.jpg"
+    },
+    {
+      "id":2,
+      "banner_img":"img/b.jpg"
+    },
+    {
+      "id":3,
+      "banner_img":"img/c.jpg"
+    },
+    {
+      "id":4,
+      "banner_img":"img/d.jpg"
+    }
+  ],
+  "code":0,
+  "msg":"请求成功"
+}

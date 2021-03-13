@@ -1,0 +1,55 @@
+{
+  "data": [{
+    "id": 1,
+    "good_img": "img/a1.jpg",
+    "name": "牛排",
+    "new_price": 87,
+    "old_price": 3785,
+    "commentNum": 2894,
+    "collectNum": 3809,
+    "saleNum": 49
+  },
+    {
+      "id": 2,
+      "good_img": "img/a2.jpg",
+      "name": "披萨",
+      "new_price": 34,
+      "old_price": 3785,
+      "commentNum": 2894,
+      "collectNum": 3809,
+      "saleNum": 234
+    },
+    {
+      "id": 3,
+      "good_img": "img/a3.jpg",
+      "name": "烧烤",
+      "new_price": 24,
+      "old_price": 3785,
+      "commentNum": 2894,
+      "collectNum": 3809,
+      "saleNum": 348
+    },
+    {
+      "id": 4,
+      "good_img": "img/a4.jpg",
+      "name": "蛋糕",
+      "new_price": 49,
+      "old_price": 3785,
+      "commentNum": 2894,
+      "collectNum": 3809,
+      "saleNum": 343
+    },
+    {
+      "id": 5,
+      "good_img": "img/a5.jpg",
+      "name": "寿司",
+      "new_price": 43,
+      "old_price": 3785,
+      "commentNum": 2894,
+      "collectNum": 3809,
+      "saleNum": 434
+    }
+  ],
+  "code": 0,
+  "msg": "成功"
+}
